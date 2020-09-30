@@ -1,0 +1,10 @@
+
+/**
+ * 8.4 - >= 783px
+ */
+
+@include media(landscape) {
+	.admin-bar .flashy-overlay .flashy-close {
+		top: 32px;
+	}
+}
